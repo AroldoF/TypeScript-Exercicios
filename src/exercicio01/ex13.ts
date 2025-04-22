@@ -19,7 +19,7 @@ let produto2 = new Produto('Computador', false);
 let produto3 = new Produto('Tablet', true);
 
 // Criando o array com os produtos
-let array: Produto[] = [produto1, produto2, produto3];
+var array: Produto[] = [produto1, produto2, produto3];
 
 // Filtrando os produtos disponíveis
 let produtosDisponiveis = filtrarProdutosDisponiveis(array);

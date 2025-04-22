@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Lista de Exercícios Práticos – TypeScript (Iniciante)",
   "devDependencies": {
     "typescript": "^5.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AroldoF/TypeScript-Exercicios.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AroldoF/TypeScript-Exercicios/issues"
+  },
+  "homepage": "https://github.com/AroldoF/TypeScript-Exercicios#readme"
 }
