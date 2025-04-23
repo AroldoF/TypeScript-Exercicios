@@ -5,9 +5,9 @@ var n3:number = 5;
 var frequencia = 89;
 var media:number = (n1+n2+n3)/3;
 if(frequencia>=75){
-    if(nota >= 7){
+    if(media >= 7){
         console.log("Aprovado")
-    } else if(nota>=5&&nota<7){
+    } else if(media>=5&&media<7){
         console.log("Recuperação")
     } else{
         console.log("Reprovado por nota")
